@@ -1,0 +1,1 @@
+New quiz game project that will follow OOP principles. Questions on the quiz are default ones from the source material but it would be fun to add some of my own.
